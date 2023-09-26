@@ -93,7 +93,7 @@ export default function Crud() {
     <>
       {/* TÍTULO */}
       <div className="bg-blue-400 py-4">
-        <h2 className="text-center text-3xl text-gray-900 sm:text-4xl">
+        <h2 className="text-center text-m text-gray-900 sm:text-4xl">
           Caja de comentarios
         </h2>
       </div>
